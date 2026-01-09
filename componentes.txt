@@ -1,4 +1,0 @@
-<div class="title text-center py-5">
-    <h2 class="display-4">Jacket</h2>
-    <p class="lead text-muted">Explore our collection of stylish and comfortable jackets for every season.</p>
-</div>

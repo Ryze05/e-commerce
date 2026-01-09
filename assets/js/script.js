@@ -1,15 +1,15 @@
 $(document).ready(function () {
     //$('body').css('background', 'red');
 
-    /* Validación campo number */
+    /* Validar campo number */
 
     inputQuantity();
 
-    /* Añadir dinḿicamente la informaciín del producto a la ventana modal */
+    /* Info ventana modal */
 
     modal();
 
-    /* Añadir al carrito */
+    /* Add al carrito */
 
     addcart();
 
